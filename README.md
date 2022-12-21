@@ -43,6 +43,16 @@ I'm Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurumiRockbell&layout=compact)](https://github.com/KurumiRockbell/github-readme-stats)
 
+<h4>And during my free time I love :</h4>
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+
 [![Badge](https://xacpn65fx1ne.runkit.sh)](https://git.io/gradientbadge)
 [![Badge](https://1idtaocetipx.runkit.sh)](https://git.io/gradientbadge)
 
