@@ -9,7 +9,7 @@
 I'm Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Marseille, France.</b><br> I am currently a <b>"web development and mobile web learner"</b>, but also a <b>web writer for Coin Academy.</b><br> I studied <b>graphic design and communication</b> at the university from 2017 to 2020, <br> I am also a graduate of the professional title <b>Graphic design option visual communication</b> in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Marseille. <br> Passionate about web development, I like to experiment, discover and learn new technologies, always with <b>an artistic eye.</b> <br> I will present you here my skills, my background and my main integrations and graphic creations.<br> <b>For any question, don't hesitate to contact me.</b>
 
 
-<h4>I practice every day :</h4>
+<h3>I practice every day :</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ I'm Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.c
 
 
 
-<h4> I'm actualy learning :</h4>
+<h3> I'm actualy learning :</h3>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -31,7 +31,7 @@ I'm Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.c
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
- <h4>I also use :</h4>
+ <h3>I also use :</h3>
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
@@ -49,7 +49,7 @@ I'm Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurumiRockbell&layout=compact)](https://github.com/KurumiRockbell/github-readme-stats)
 
-<h4>And during my free time I love :</h4>
+<h3>And during my free time I love :</h3>
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
