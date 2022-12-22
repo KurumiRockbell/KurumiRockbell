@@ -6,7 +6,7 @@
 
 <h3>Welcome to my page!</h3>
 
-I'm Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Marseille, France.</b><br> I am currently a <b>"web development and mobile web learner"</b>, but also a <b>web writer for Coin Academy.</b><br> I studied <b>graphic design and communication</b> at the university from 2017 to 2020, <br> I am also a graduate of the professional title <b>Graphic design option visual communication</b> in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Marseille. <br> Passionate about web development, I like to experiment, discover and learn new technologies, always with <b>an artistic eye.</b> <br> I will present you here my skills, my background and my main integrations and graphic creations.<br> <b>For any question, don't hesitate to contact me.</b>
+I'm Geoffrey alias Kurumi, Junior Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Marseille, France.</b><br> I am currently a <b>"web development and mobile web learner"</b>, but also a <b>web writer for Coin Academy.</b><br> I studied <b>graphic design and communication</b> at the university from 2017 to 2020, <br> I am also a graduate of the professional title <b>Graphic design option visual communication</b> in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Marseille. <br> Passionate about web development, I like to experiment, discover and learn new technologies, always with <b>an artistic eye.</b> <br> I will present you here my skills, my background and my main integrations and graphic creations.<br> <b>For any question, don't hesitate to contact me.</b>
 
 
 <h3>I practice every day :</h3>
